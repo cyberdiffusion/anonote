@@ -31,13 +31,6 @@ Anonote is a privacy-first platform that allows users to create encrypted, self-
 | No Copy / Screenshot | Right-click, Ctrl+C, and screenshot attempts are blocked or discouraged. |
 | No Tracking | No IP logging, cookies, or fingerprinting. True anonymity guaranteed. |
 
-### Design Style: Matrix / Terminal UI
-
-- Neon green text on a pure black background.
-- Terminal-style loading animations.
-- Dramatic self-destruct visual effects (fading, distortion, deletion animations).
-- Optional terminal "beep" sound with each mouse click.
-- Characters appear gradually, simulating an old-school monitor typing effect.
 
 ### Getting Started
 
@@ -52,12 +45,6 @@ npm start
 npm run build
 ```
 
-### Technologies Used
-
-- Frontend: React
-- Virtual Keyboard: react-simple-keyboard
-- Encryption: CryptoJS (AES-256)
-- Styling: styled-components
 
 ### License
 
