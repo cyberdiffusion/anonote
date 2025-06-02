@@ -5,7 +5,7 @@
   "license": "MIT",
   "description": "A privacy-first platform for creating encrypted, self-destructing notes without leaving any trace.",
   "author": "CyberDiffusion",
-  "homepage": "https://github.com/cyberdiffusion/anonote",
+  "homepage": "/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cyberdiffusion/anonote.git"
